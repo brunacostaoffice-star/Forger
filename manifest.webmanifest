@@ -1,0 +1,21 @@
+{
+  "name": "Forge — Treino do Thiago",
+  "short_name": "Forge",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f8ff",
+  "theme_color": "#3e7ee8",
+  "description": "Aplicativo pessoal de treino, força e evolução do Thiago.",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
