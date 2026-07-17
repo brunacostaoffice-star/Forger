@@ -1,1 +1,1 @@
-Forge com controle segmentado de progressão: −2,5 kg, Mesmo e +2,5 kg na primeira linha; +1 repetição em uma segunda linha de largura total.
+Forge sem botões manuais de progressão. A evolução é calculada automaticamente comparando as cargas e repetições registradas com o histórico anterior.
