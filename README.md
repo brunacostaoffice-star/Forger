@@ -1,1 +1,1 @@
-Forge com histórico detalhado e metas semanais editáveis em Perfil → Metas da semana.
+Forge estável: treinos A/B/C/D restaurados, botões Abrir funcionais, Histórico com Ver detalhes e metas editáveis em Perfil.
