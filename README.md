@@ -1,1 +1,1 @@
-Forge corrigido usando o Bloom final como base literal. Ficha oficial do Thiago revisada: A Push, B Pull, C Legs e D Upper. Após o Treino A do histórico, o próximo treino é C — Pernas.
+Forge com controle segmentado de progressão: −2,5 kg, Mesmo e +2,5 kg na primeira linha; +1 repetição em uma segunda linha de largura total.
