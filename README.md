@@ -1,5 +1,1 @@
-# Forge — Thiago
-
-PWA mobile-first personalizada para o Thiago registrar treinos, cargas, repetições e evolução.
-
-Os dados ficam armazenados no navegador do aparelho.
+Forge corrigido usando o Bloom final como base literal. Ficha oficial do Thiago revisada: A Push, B Pull, C Legs e D Upper. Após o Treino A do histórico, o próximo treino é C — Pernas.
